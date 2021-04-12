@@ -13,7 +13,7 @@ That's why we are hiring you. We need you to write code that will create a table
 ## Technologies Used
 - Javascript
 - HTML/CSS
--D3.js
+- D3.js
 
 ## Objective
 Write code that will create a table dynamically based on the provided dataset that will allow users to filter the table data for specific values.
