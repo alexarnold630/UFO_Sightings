@@ -20,3 +20,6 @@ Write code that will create a table dynamically based on the provided dataset th
 
 ![Webpage](static/images/webpage.png)
 
+### Contact
+Alex Arnold: alexnarnold630@gmail.com <br>
+
